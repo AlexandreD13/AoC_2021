@@ -1,0 +1,385 @@
+03/24/2022 01:22:28 AM - INFO - Program started
+03/24/2022 01:22:28 AM - INFO - Data successfully imported
+03/24/2022 01:22:28 AM - INFO - Data converted to list of lists
+03/24/2022 01:22:28 AM - INFO - Format - heightmap[line][column]
+03/24/2022 01:22:28 AM - INFO - Part 1 - Calculating risk level ...
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 0, Column: 19, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 0, Column: 46, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 5
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 0, Column: 75, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 6
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 1, Column: 29, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 7
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 1, Column: 42, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 8
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 1, Column: 54, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 9
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 3, Column: 1, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 12
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 4, Column: 8, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 13
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 4, Column: 22, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 15
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 4, Column: 61, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 16
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 4, Column: 94, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 17
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 5, Column: 45, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 20
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 5, Column: 85, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 22
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 6, Column: 78, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 24
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 7, Column: 13, Value: 5
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 30
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 7, Column: 53, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 31
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 8, Column: 7, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 35
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 8, Column: 34, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 36
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 9, Column: 25, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 38
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 11, Column: 11, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 39
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 11, Column: 17, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 42
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 11, Column: 73, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 43
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 11, Column: 81, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 45
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 11, Column: 91, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 47
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 11, Column: 93, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 50
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 13, Column: 98, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 54
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 14, Column: 3, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 55
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 14, Column: 66, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 57
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 15, Column: 42, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 58
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 16, Column: 19, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 60
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 16, Column: 52, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 64
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 17, Column: 29, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 65
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 17, Column: 56, Value: 5
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 71
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 17, Column: 60, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 72
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 17, Column: 79, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 74
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 17, Column: 92, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 78
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 18, Column: 9, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 79
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 19, Column: 35, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 81
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 19, Column: 74, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 84
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 20, Column: 3, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 85
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 20, Column: 48, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 90
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 20, Column: 84, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 91
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 21, Column: 57, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 92
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 22, Column: 42, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 93
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 24, Column: 77, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 96
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 24, Column: 90, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 97
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 25, Column: 25, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 98
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 25, Column: 32, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 102
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 25, Column: 63, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 105
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 25, Column: 71, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 107
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 26, Column: 8, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 108
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 26, Column: 18, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 109
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 26, Column: 38, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 112
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 26, Column: 49, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 113
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 29, Column: 43, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 114
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 29, Column: 69, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 117
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 30, Column: 30, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 118
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 30, Column: 55, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 119
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 32, Column: 2, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 120
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 32, Column: 14, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 122
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 32, Column: 50, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 124
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 32, Column: 77, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 125
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 33, Column: 65, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 127
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 33, Column: 83, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 128
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 34, Column: 17, Value: 5
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 134
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 36, Column: 22, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 139
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 36, Column: 54, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 140
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 37, Column: 8, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 141
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 37, Column: 36, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 142
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 37, Column: 46, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 144
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 38, Column: 93, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 145
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 39, Column: 16, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 148
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 39, Column: 71, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 149
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 40, Column: 20, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 150
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 40, Column: 29, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 151
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 40, Column: 59, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 153
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 41, Column: 3, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 154
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 41, Column: 83, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 155
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 42, Column: 13, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 160
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 43, Column: 19, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 165
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 43, Column: 98, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 167
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 44, Column: 38, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 170
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 44, Column: 45, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 171
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 44, Column: 52, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 173
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 44, Column: 66, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 176
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 46, Column: 91, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 178
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 47, Column: 23, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 179
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 47, Column: 32, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 184
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 47, Column: 74, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 187
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 48, Column: 8, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 192
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 48, Column: 16, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 194
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 48, Column: 62, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 196
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 49, Column: 5, Value: 6
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 203
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 49, Column: 37, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 204
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 50, Column: 0, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 205
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 50, Column: 49, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 209
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 50, Column: 54, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 214
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 50, Column: 97, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 215
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 52, Column: 44, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 217
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 53, Column: 32, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 222
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 53, Column: 38, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 223
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 53, Column: 70, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 224
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 54, Column: 81, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 225
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 54, Column: 88, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 226
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 55, Column: 12, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 227
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 55, Column: 47, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 228
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 56, Column: 75, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 232
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 57, Column: 3, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 233
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 57, Column: 23, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 235
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 57, Column: 58, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 238
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 59, Column: 51, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 240
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 59, Column: 93, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 244
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 60, Column: 30, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 245
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 60, Column: 44, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 248
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 60, Column: 77, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 253
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 60, Column: 89, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 255
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 61, Column: 23, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 256
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 61, Column: 55, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 261
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 61, Column: 66, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 264
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 61, Column: 72, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 265
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 62, Column: 16, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 266
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 62, Column: 82, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 269
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 64, Column: 0, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 270
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 64, Column: 89, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 272
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 65, Column: 48, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 273
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 65, Column: 61, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 274
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 66, Column: 12, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 275
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 66, Column: 38, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 276
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 67, Column: 77, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 277
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 68, Column: 84, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 278
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 69, Column: 23, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 279
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 69, Column: 29, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 280
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 69, Column: 67, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 281
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 70, Column: 44, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 286
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 70, Column: 63, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 287
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 70, Column: 93, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 288
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 72, Column: 52, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 292
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 72, Column: 56, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 296
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 72, Column: 71, Value: 6
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 303
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 72, Column: 80, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 304
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 73, Column: 3, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 305
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 73, Column: 16, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 306
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 74, Column: 46, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 307
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 75, Column: 39, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 308
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 76, Column: 13, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 313
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 76, Column: 60, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 316
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 76, Column: 75, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 320
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 76, Column: 85, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 322
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 76, Column: 88, Value: 5
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 328
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 76, Column: 96, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 329
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 77, Column: 28, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 330
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 77, Column: 69, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 331
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 78, Column: 54, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 332
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 79, Column: 33, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 334
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 80, Column: 6, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 337
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 80, Column: 44, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 338
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 81, Column: 21, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 340
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 82, Column: 77, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 341
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 82, Column: 93, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 343
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 83, Column: 62, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 344
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 84, Column: 7, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 345
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 84, Column: 38, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 346
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 84, Column: 49, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 351
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 84, Column: 85, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 353
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 86, Column: 0, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 354
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 86, Column: 16, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 355
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 86, Column: 30, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 357
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 86, Column: 44, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 359
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 87, Column: 72, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 361
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 88, Column: 57, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 366
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 89, Column: 4, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 371
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 89, Column: 26, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 372
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 90, Column: 79, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 373
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 91, Column: 11, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 374
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 91, Column: 51, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 376
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 91, Column: 65, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 377
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 92, Column: 0, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 381
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 92, Column: 40, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 382
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 92, Column: 72, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 385
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 92, Column: 93, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 386
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 93, Column: 87, Value: 3
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 390
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 94, Column: 19, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 392
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 95, Column: 33, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 393
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 96, Column: 5, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 394
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 96, Column: 60, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 396
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 97, Column: 26, Value: 1
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 398
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 98, Column: 1, Value: 2
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 401
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 98, Column: 13, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 402
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 98, Column: 53, Value: 4
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 407
+03/24/2022 01:22:28 AM - INFO - Part 1 - Low point at Index: 98, Column: 69, Value: 0
+03/24/2022 01:22:28 AM - INFO - Part 1 - Total risk level now at: 408
