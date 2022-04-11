@@ -1,9 +1,8 @@
 # Define tests in this file
-from day2_helpers import part1, part2
+from day2_helpers import import_input, part1, part2
 
-data = ["forward 5", "down 5",
-        "forward 8", "up 3",
-        "down 8", "forward 2"]
+filename = "data/input_test.txt"
+data = import_input(filename)
 
 
 class TestClass:

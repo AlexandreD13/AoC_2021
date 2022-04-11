@@ -1,9 +1,8 @@
 # Define tests in this file
-from day3_helpers import part1, part2
+from day3_helpers import import_input, part1, part2
 
-data = ["00100", "11110", "10110", "10111",
-        "10101", "01111", "00111", "11100",
-        "10000", "11001", "00010", "01010"]
+filename = "data/input_test.txt"
+data = import_input(filename)
 
 
 class TestClass:
