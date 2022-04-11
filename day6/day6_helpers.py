@@ -1,4 +1,16 @@
-# Day 6 of Advent Of Code 2021
+# Define functions in this file
+import os
+import sys
+
+
+def import_input(filename):
+    if os.path.exists(filename):
+        with open(filename, "r") as file:
+            data = file.read().split(",")
+            return data
+    else:
+        sys.exit(1)
+
 
 class SchoolOfFish:
     def __init__(self, initial_state):
@@ -14,12 +26,9 @@ class SchoolOfFish:
         self.days_passed = 0
 
     def state(self):
-        print("\nAfter {} days, there are {} fishes.".format(self.days_passed, sum(self.group.values())))
+        return sum(self.group.values())
 
     def update(self):
-        self.state()
-        print(self.group)
-
         for key in self.group:
             if int(key) == 0:
                 self.group["7"] += self.group[key]
@@ -30,16 +39,3 @@ class SchoolOfFish:
                 self.group[key] = 0
 
         self.days_passed += 1
-
-
-if __name__ == "__main__":
-    my_file = open("Day_6_input.txt", "r")
-    content = my_file.read()
-    n_list = content.split(',')
-
-    del my_file, content
-
-    school = SchoolOfFish(n_list)
-
-    for i in range(0, 257):
-        school.update()

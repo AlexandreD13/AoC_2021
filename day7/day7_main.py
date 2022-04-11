@@ -1,5 +1,5 @@
-# Advent Of Code 2021 - Day 2 - Dive!
-from day2_helpers import import_input, part1, part2
+# Advent Of Code 2021 - Day 7 - The Treachery of Whales
+from day7_helpers import import_input, part1, part2
 
 if __name__ == "__main__":
     # Import input

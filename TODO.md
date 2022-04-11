@@ -1,4 +1,8 @@
 # To-Do list
 
-- Set Day 5 to Day 9 properly
-- Complete Day 4
+- Day 4
+- Day 9
+
+
+# To fix
+- Day 7 Part 2 is extremely inefficient
